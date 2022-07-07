@@ -1,0 +1,25 @@
+{
+    "api" : [
+        {
+            "title": "who am i?",
+            "content": "Hello I am Ashman singh, I am a coder!",
+            "img": "1.jpg"
+        },
+        {
+            "title": "Who is my friend?",
+            "content": "Hello I am Astitva singh, He is a coder! too",
+            "img": "1.jpg"
+        },
+        {
+            "title": "Who is Bother Of My Friend?",
+            "content": "Hello I am Vinayak singh, He is a todler",
+            "img": "1.jpg"
+        },
+        {
+            "title": "Who is my Sister?",
+            "content": "Hello I am Ishi singh, She study in 3rd (I dont know which class she study lol!)",
+            "img": "1.jpg"
+        }
+    
+    ]
+}
